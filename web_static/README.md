@@ -1,1 +1,1 @@
-This is not an emmpty directory 
+This is not an empty directory 
